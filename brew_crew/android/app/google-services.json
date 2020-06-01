@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559895236767",
+    "firebase_url": "https://my-brew-9e7d6.firebaseio.com",
+    "project_id": "my-brew-9e7d6",
+    "storage_bucket": "my-brew-9e7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559895236767:android:827ad2b25b2d338a0092aa",
+        "android_client_info": {
+          "package_name": "com.omkar.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559895236767-3nlg9kcpac3omg41lsq0n0lqd8kuqk8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zGJEAX5M8Mlsnp6QDsTuNch6O5oCDqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559895236767-3nlg9kcpac3omg41lsq0n0lqd8kuqk8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
